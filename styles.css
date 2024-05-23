@@ -204,7 +204,7 @@ p {
 
 .header_wrapper .navbar-toggler {
   border: 0;
-  color: var(--primary-text);
+  color: rgb(131, 128, 128);
   line-height: 2;
 }
 
